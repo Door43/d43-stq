@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stq:home|Door43 (stq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stq|d43-stq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stq/archive/master.zip|d43-stq.zip]]
+
+**Recent Changes**
+{{changes>ns = stq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stq|Ethnologue data]]
+
